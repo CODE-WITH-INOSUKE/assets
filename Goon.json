@@ -1,6 +1,6 @@
 {
-  "name": "AMOLED anime theme",
-  "description": "AMOLED Rem theme",
+  "name": "goon anime theme",
+  "description": "goon Rem theme",
   "authors": [
     {
       "name": "wiwiichan",
@@ -235,7 +235,7 @@
     "PLUM_24": "#000000"
   },
   "background": {
-    "url": "https://raw.githubusercontent.com/CODE-WITH-INOSUKE/assets/refs/heads/main/b5f08a4f0cf90d2ae8e91e8bdd7890d8%20(1).jpg",
+    "url": "https://raw.githubusercontent.com/CODE-WITH-INOSUKE/assets/refs/heads/main/fb1554d5b94985bc497b21ed2573e966.jpg",
     "blur": 0.5,
     "alpha": 0.25,
     "size": "cover",
